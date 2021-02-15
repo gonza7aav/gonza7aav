@@ -20,6 +20,4 @@ You can view my resume [here](#fix)
 ## 📌 Pinned
 -->
 
-<!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gonza7aav&layout=compact&theme=dracula&langs_count=10&cache_seconds=86400)](https://github.com/anuraghazra/github-readme-stats)
--->
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gonza7aav&layout=compact&theme=dracula&langs_count=10&cache_seconds=86400)](https://github.com/anuraghazra/github-readme-stats)
