@@ -1,6 +1,9 @@
 # This is (drum rolls) Gonzalo Aguirre
 
-[![Portfolio Badge](https://img.shields.io/badge/personal-web-blue?style=flat&link=https://gonza7aav.github.io//)](https://gonza7aav.github.io//)
+<!--
+[![Personal Web Badge](https://img.shields.io/badge/personal-web-blue?style=flat&link=https://gonza7aav.github.io//)](https://gonza7aav.github.io//)
+-->
+
 [![Linkedin Badge](https://img.shields.io/badge/-gonza7aav-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gonza7aav/)](https://www.linkedin.com/in/gonza7aav/)
 [![Twitter Badge](https://img.shields.io/badge/-gonza_aav-blue?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/gonza_aav/)](https://www.twitter.com/gonza_aav/)
 
