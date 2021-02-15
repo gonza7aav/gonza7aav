@@ -8,7 +8,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-gonza_aav-blue?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/gonza_aav/)](https://www.twitter.com/gonza_aav/)
 
 - 🎓 Currently studying a Lic. in Information Systems in [FaCENA](http://exa.unne.edu.ar/) - [UNNE](https://www.unne.edu.ar/)
-- 🔥 I love coding stuff to make life easier and messing around with arduino
+- 🔥 I love coding stuff to make life easier and messing around with Arduino
 - 💬 I speak Spanish and English
 - 🇦🇷 Based in Chaco, Argentina
 
