@@ -21,10 +21,6 @@
 
 🎓 Currently studying a Lic. in Information Systems in [FaCENA](http://exa.unne.edu.ar/) - [UNNE](https://www.unne.edu.ar/)
 
-<!-- Languages -->
-
-💬 I speak Spanish and English
-
 <!-- Location -->
 
 🇦🇷 Based in Chaco, Argentina
