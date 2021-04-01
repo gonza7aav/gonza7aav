@@ -29,4 +29,4 @@
 ## 📌 Pinned
 -->
 
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gonza7aav&layout=compact&theme=dracula&hide=html&cache_seconds=86400)](https://github.com/anuraghazra/github-readme-stats)
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gonza7aav&layout=compact&theme=dracula&cache_seconds=86400)](https://github.com/anuraghazra/github-readme-stats)
