@@ -9,17 +9,37 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-blue)](https://www.twitter.com/gonza_aav/)
 
 <!-- Work -->
-<!--
-💼
--->
+
+💼 Looking for my first programming job
 
 <!-- Passion -->
 
-🔥 Junior JavaScript Developer who love coding tools to make life easier
+🔥 A **Junior JavaScript Developer** who love coding tools to make life easier
 
 <!-- Study -->
 
-🎓 Currently studying a Lic. in Information Systems in [FaCENA](http://exa.unne.edu.ar/) - [UNNE](https://www.unne.edu.ar/)
+🎓 I'm currently studying a Lic. in Information Systems in [FaCENA](http://exa.unne.edu.ar/) - [UNNE](https://www.unne.edu.ar/)
+
+<!-- Learning -->
+
+🌱 I started introducing myself into **React**
+
+<!-- Tech -->
+
+💻 I'm not saying I'm an expert... but in the past I made things with:
+
+- Arduino
+- Bootstrap
+- C
+- C#
+- CodeIgniter
+- Express
+- Firebase
+- Java
+- Node.js
+- Octave
+- Spark AR
+- SQL
 
 <!-- Location -->
 
