@@ -14,7 +14,7 @@
 
 <!-- Passion -->
 
-🔥 A **Junior JavaScript Developer** who love coding tools to make life easier
+🔥 A **JavaScript Developer** who love coding tools to make life easier
 
 <!-- Study -->
 
