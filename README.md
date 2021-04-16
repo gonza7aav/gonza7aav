@@ -14,7 +14,7 @@
 
 <!-- Passion -->
 
-🔥 A **JavaScript Developer** who love coding tools to make life easier
+🔥 A **Software Developer** who love coding tools to make life easier
 
 <!-- Study -->
 
