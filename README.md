@@ -22,7 +22,7 @@
 
 <!-- Learning -->
 
-🌱 I started introducing myself into **React**
+🌱 I started to introduce myself into **React**
 
 <!-- Tech -->
 
@@ -35,9 +35,12 @@
 - CodeIgniter
 - Express
 - Firebase
+- Git
 - Java
-- Node.js
+- JavaScript
+- Node
 - Octave
+- React
 - Spark AR
 - SQL
 
