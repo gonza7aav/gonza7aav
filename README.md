@@ -34,14 +34,10 @@
 - C#
 - CodeIgniter
 - Express
-- Firebase
 - Git
-- Java
 - JavaScript
 - Node
-- Octave
 - React
-- Spark AR
 - SQL
 
 <!-- Location -->
