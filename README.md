@@ -42,7 +42,7 @@
 
 <!-- Location -->
 
-🇦🇷 Based in Chaco, Argentina
+🌎 Based in Chaco, Argentina
 
 <!--
 ## 📌 Pinned
